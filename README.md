@@ -1,10 +1,12 @@
-<p align="center">
-  <img 
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=900&color=000000&center=true&vCenter=true&width=900&lines=🦇+Ezequiel+Pereira+da+Silva;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+em+Formação;Apaixonado+por+Tecnologia;Construindo+Projetos+Todos+os+Dias"
-  />
-</p>
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3IzcTk0cDY4aHpneG1meTBqbTJhbTd2bHE2azRmM3lla2pxOTN2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
+</div>
 
+###
 ---
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Ezequiel+Silva;Automação+com+Python;Python+Developer;ADS+Student" />
+</p>
 
 # 👋 Sobre Mim
 
