@@ -39,22 +39,6 @@ Meu objetivo é conquistar meu **primeiro estágio como desenvolvedor** e evolui
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-<p align="center">
-
-<img 
-height="170em"
-src="https://github-readme-stats.vercel.app/api?username=ezequielsilva-stack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-/>
-
-<img
-height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielsilva-stack&layout=compact&theme=tokyonight"
-/>
-
-</p>
-
 ---
 
 # 🔥 Sequência de Contribuições
