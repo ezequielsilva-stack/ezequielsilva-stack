@@ -81,7 +81,10 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=ezequielsilva-stack&
 
 # 🐍 Contribuições
 
-![snake gif](https://github.com/ezequielsilva-stack/ezequielsilva-stack/blob/output/dist/snake.svg)
+###
+<img src="https://raw.githubusercontent.com/professor-rafael/professor-rafael/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 
